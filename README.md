@@ -1,2 +1,3 @@
 # centosVersion
-https://www.cnblogs.com/yogurtwu/p/10716206.html
+CentOS 官网 https://www.centos.org/
+
