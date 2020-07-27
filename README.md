@@ -1,5 +1,5 @@
 # centosVersion
-小宇：
-    上面centos.xlsx文件点进去download下来，有一些centos安装说明你可以看看对安装centos有些帮助。
+双系统环境搭建:
+    centos.xlsx->download
     手机端点下view code。
 
